@@ -1,0 +1,19 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# .NET
+*.user
+project.lock.json
+artifacts/
+
+# Rider / ReSharper
+.idea/
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
